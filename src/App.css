@@ -2,16 +2,8 @@
   margin: 0;
 }
 
-.listContainer{
-  padding: 10px;
-}
 
-.text{
-  color: white;
-}
 
-.col-12{
-  background-color: #0C484D;
-  margin-bottom: 20px;
-  padding: 10px;
-}
+@import "./styles/pokemon-list.css";
+@import "./styles/pokemon-card.css";
+@import "./styles/loader.css"

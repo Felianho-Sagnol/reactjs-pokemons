@@ -1,0 +1,17 @@
+.listContainer {
+    padding: 10px;
+}
+
+.text {
+    color: white;
+}
+
+.col-12 {
+    background-color: #0C484D;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.error{
+    color:red;
+}

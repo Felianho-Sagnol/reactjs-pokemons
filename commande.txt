@@ -1,0 +1,13 @@
+React learning
+
+compile the app npm run build
+use serve to test for production
+
+firebase hosting
+npm i -g firebase-tools
+firebase init (if some errors do : firebase logout and then firebase login)
+
+firebase deploy
+
+the generated url for the project
+https://dev-sagno-reactapp.web.app
